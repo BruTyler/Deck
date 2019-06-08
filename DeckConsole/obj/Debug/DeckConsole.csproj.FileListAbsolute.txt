@@ -1,0 +1,13 @@
+C:\Users\Tyler\Downloads\Deck\Deck\DeckConsole\obj\Debug\DeckConsole.csprojAssemblyReference.cache
+C:\Users\Tyler\Downloads\Deck\Deck\DeckConsole\obj\Debug\DeckConsole.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Downloads\Deck\Deck\DeckConsole\bin\Debug\DeckConsole.exe.config
+C:\Users\Tyler\Downloads\Deck\Deck\DeckConsole\bin\Debug\DeckConsole.exe
+C:\Users\Tyler\Downloads\Deck\Deck\DeckConsole\bin\Debug\DeckConsole.pdb
+C:\Users\Tyler\Downloads\Deck\Deck\DeckConsole\bin\Debug\Deck.dll
+C:\Users\Tyler\Downloads\Deck\Deck\DeckConsole\bin\Debug\Ninject.dll
+C:\Users\Tyler\Downloads\Deck\Deck\DeckConsole\bin\Debug\Deck.pdb
+C:\Users\Tyler\Downloads\Deck\Deck\DeckConsole\bin\Debug\Deck.dll.config
+C:\Users\Tyler\Downloads\Deck\Deck\DeckConsole\bin\Debug\Ninject.xml
+C:\Users\Tyler\Downloads\Deck\Deck\DeckConsole\obj\Debug\DeckConsole.csproj.CopyComplete
+C:\Users\Tyler\Downloads\Deck\Deck\DeckConsole\obj\Debug\DeckConsole.exe
+C:\Users\Tyler\Downloads\Deck\Deck\DeckConsole\obj\Debug\DeckConsole.pdb

@@ -1,0 +1,10 @@
+C:\Users\Tyler\Downloads\Deck\Deck\Deck\bin\Debug\Deck.pdb
+C:\Users\Tyler\Downloads\Deck\Deck\Deck\bin\Debug\Ninject.dll
+C:\Users\Tyler\Downloads\Deck\Deck\Deck\bin\Debug\Ninject.xml
+C:\Users\Tyler\Downloads\Deck\Deck\Deck\obj\Debug\Deck.csprojAssemblyReference.cache
+C:\Users\Tyler\Downloads\Deck\Deck\Deck\obj\Debug\Deck.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Downloads\Deck\Deck\Deck\obj\Debug\Deck.csproj.CopyComplete
+C:\Users\Tyler\Downloads\Deck\Deck\Deck\obj\Debug\Deck.pdb
+C:\Users\Tyler\Downloads\Deck\Deck\Deck\bin\Debug\Deck.dll.config
+C:\Users\Tyler\Downloads\Deck\Deck\Deck\bin\Debug\Deck.dll
+C:\Users\Tyler\Downloads\Deck\Deck\Deck\obj\Debug\Deck.dll
